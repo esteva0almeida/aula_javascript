@@ -1,5 +1,4 @@
 # aula_javascript
-Introdução ao JavaScript
+Site Teste
 
-Estou testando como funciona o Git e como fazer Commits para o GitHub
-<3
+Estou testando como funciona o Git e como fazer Commits para o GitHub <3
